@@ -1,0 +1,51 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+<HEAD>
+    <META>
+    <title> PR Trip </title>
+    </HEAD>
+<body style="background-color:#FF9999">
+    <div style="text-align:center; color:#003399">
+        <h3>Sweet 16 Trip to Puerto Rico</h3>
+        <p>
+            When I turned 16 my father took me back to the place I was born, Puerto Rico! Before going
+            I was so excited because I had not been back since we moved away. I was only two when we moved
+            so all I knew about Puerto Rico came from what my family had told me through stories they remembered.
+            However, I knew that it was an island paradise that I would love too. </p>
+        <p>
+            I have always loved the beach so what could be better than an island? When we got there the first
+            thing we did was go to our hotel. It was absolutely gorgeous and was shaped like a shell. The lobby
+            was decorated with beautiful furniture and was open to the outside so the cool ocean breeze was always
+            flowing. </p>
+        <p>
+            We stayed for a weekend, and while we were there we went on my adventures. This website contains
+            pictures and the highlights of our trip. </p>
+    </div>
+    <div style="text-align:center; color:#003399">
+    <table style="text-align:center">
+        <tr>
+            <th>Satruday</th>
+            <th>Sunday</th>
+        </tr>
+        <tr>
+            <th>Went into <a href="http://www.butterflypeople.com/">The Butterfly People Store</a></th>
+            <th>Walked around Old San Juan</th>
+        </tr>
+        <tr>
+            <th>Breakfast near hotel</th>
+            <th><a
+            href="https://www.google.com/maps/place/San+Juan,+Puerto+Rico/@18.3848136,-66.1283819,12z/data=!3m1!4b1!4m5!3m4!1s0x8c03686fe268196f:0xad6b7f0f5c935adc!8m2!3d18.4655394!4d-66.1057355">Visited Castillo San Felipe del Morro!</a></th>
+        </tr>
+        <tr>
+            <th>Went to the Beach</th>
+            <th>Went to a Party on the Street</th>
+        </tr>
+        <tr>
+            <th>Danced at Local Hotels</th>
+            <th>Listened to Bands on Street</th>
+        </tr>
+    </table>
+    </div>
+
+</BODY>
+</HTML>
